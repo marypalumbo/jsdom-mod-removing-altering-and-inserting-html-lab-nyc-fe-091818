@@ -1,5 +1,5 @@
 /* Enter the code to remove the main node element under this comment */
-element.remove(id='main');
+main.remove();
 
 document.body.appendChild('h1#victory');
 let h1#victory = document.createElement('h1#victory');
