@@ -6,5 +6,6 @@ main.remove()
 const header = document.createElement('h1')
 header.id = 'victory'
 header.innerText = "Mary is the champion!"
+console.log(header)
 
 const newHeader = null;
